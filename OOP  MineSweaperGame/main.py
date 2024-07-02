@@ -23,9 +23,12 @@ top_frame.place(x=0,y=0)
 game_title = Label (
     top_frame,
     bg = 'Black',
-    fg = 'white',
+    fg = 'White',
     text= 'MineSweeper Game',
     font = ('',48)
+)
+game_title.place(
+    x = utils.width_prct(25), y =0
 )
 
 

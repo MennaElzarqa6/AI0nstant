@@ -52,13 +52,10 @@ To clone this repository, run the following command:
 
 ```bash
 git clone https://github.com/MennaElzarqa6/AI0nstant.git
+```
 
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MennaElzarqa6/AI0nstant.git
-2. Open the Power BI file (.pbix) in Power BI Desktop to view the dashboards and reports.
+## Access the Blinkit Data Analysis Project
+After cloning, Open the Power BI file (.pbix) in Power BI Desktop to view the dashboards and reports.
 
 ## Conclusion
 This analysis provides valuable insights that can drive strategic initiatives at Blinkit,

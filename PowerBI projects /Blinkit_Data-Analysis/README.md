@@ -45,11 +45,19 @@ This project involves a comprehensive analysis of Blinkit's sales data to uncove
 
 - **Power BI:** For data visualization and dashboard creation.
 - **Data Sources:** [Provide details about the dataset if available, e.g., CSV files, databases]
+  
+## Clone this repository
+
+To clone this repository, run the following command:
+
+```bash
+git clone https://github.com/MennaElzarqa6/AI0nstant.git
 
 ## Getting Started
 
 1. Clone this repository:
-   ```bash git clone https://github.com/MennaElzarqa6/AI0nstant.git
+   ```bash
+   git clone https://github.com/MennaElzarqa6/AI0nstant.git
 2. Open the Power BI file (.pbix) in Power BI Desktop to view the dashboards and reports.
 
 ## Conclusion

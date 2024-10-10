@@ -49,9 +49,9 @@ This project involves a comprehensive analysis of Blinkit's sales data to uncove
 ## Getting Started
 
 1. Clone this repository:
-   ```bash https://github.com/MennaElzarqa6/AI0nstant/tree/6b707ab40d7767365267026dc38f3b58a5fe0521/PowerBI%20projects%20/Blinkit_Data-Analysis
-2. git clone https://github.com/MennaElzarqa6/AI0nstant/PowerBI projects/Blinkit-Data-Analysis.git
-Open the Power BI file (.pbix) in Power BI Desktop to view the dashboards and reports.
+   ```bash
+git clone https://github.com/MennaElzarqa6/AI0nstant.git
+2. Open the Power BI file (.pbix) in Power BI Desktop to view the dashboards and reports.
 
 ## Conclusion
 This analysis provides valuable insights that can drive strategic initiatives at Blinkit,

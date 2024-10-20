@@ -51,17 +51,8 @@ auto_ml_app/
 ├── app.py                   # Main application file
 ├── requirements.txt         # Python dependencies
 ├── icon.png                 # Application icon
-├── mainpage.png                 # Application icon
-├── sample_data.csv      # Example dataset for testing
-└── README.md                # Project documentation
-
-auto_ml_app/
-│
-├── app.py                   # Main application file
-├── requirements.txt         # Python dependencies
-├── icon.png                 # Application icon
-├── data/                    # Folder for sample data files
-│   └── sample_data.csv      # Example dataset for testing
+├── mainpage.png             # Application icon
+├── sample_data.csv          # Example dataset for testing
 └── README.md                # Project documentation
 
 ## License

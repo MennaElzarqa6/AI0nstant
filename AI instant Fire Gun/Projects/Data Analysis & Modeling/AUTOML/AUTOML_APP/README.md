@@ -24,7 +24,7 @@ To run the AutoML App, ensure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/MennaElzarqa6/AI0nstan.git
    cd your-repository
 ```
@@ -53,6 +53,15 @@ auto_ml_app/
 ├── icon.png                 # Application icon
 ├── mainpage.png                 # Application icon
 ├── sample_data.csv      # Example dataset for testing
+└── README.md                # Project documentation
+
+auto_ml_app/
+│
+├── app.py                   # Main application file
+├── requirements.txt         # Python dependencies
+├── icon.png                 # Application icon
+├── data/                    # Folder for sample data files
+│   └── sample_data.csv      # Example dataset for testing
 └── README.md                # Project documentation
 
 ## License

@@ -16,7 +16,7 @@ The AutoML App is a web-based application designed to streamline the machine lea
 
 To run the AutoML App, ensure you have the following installed:
 
-- Python 3.7 or later
+- Python 3.9
 - Streamlit
 - PyCaret
 - Other required libraries (see `requirements.txt`)
@@ -33,6 +33,11 @@ To run the AutoML App, ensure you have the following installed:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
+or use conda environment:
+```bash
+conda create -n <env>
+```
+
 3.Install the required packages:
 ```bash
 pip install -r requirements.txt
@@ -40,7 +45,7 @@ pip install -r requirements.txt
 ## Usage
 1.Start the Streamlit app:
 ```bash
-streamlit run app.py
+streamlit run AUTOML.py
 ```
 2. Open your web browser and go to http://localhost:8501 to access the app.
 3. Upload your dataset and select the desired machine learning task. Follow the prompts to train and evaluate your models.
